@@ -1,4 +1,4 @@
-# Implementação da Árvore K-d Tree em C \ 5º Termo - Pesquisa e Ordenação
+# 🧮 Implementação de Árvore K-d Tree em C \ ***5º Termo - Pesquisa e Ordenação***
 
 Este projeto implementa uma K-d Tree para organizar pontos em um espaço de K dimensões e realizar buscas por proximidade (busca por raio). O desenvolvimento segue as especificações do trabalho de Estruturas de Dados II.
 
